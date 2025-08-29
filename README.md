@@ -10,7 +10,7 @@ This project presents a complete A/B testing analysis for the popular mobile gam
 The analysis follows a structured, end-to-end methodology, starting from a formal experiment design and hypothesis formulation, through data cleaning and exploratory analysis, to statistical testing and a final business recommendation.
 
 ## 🔗 Quick Links
-* 📓 **[Full Code in Jupyter Notebook](https://github.com/vytautas-fin/ab-testing-cookie-cats/blob/main/ab-test.ipynb)**
+* 📓 **[Full Code in Jupyter Notebook](https://nbviewer.org/github/vytautas-fin/ab-testing-cookie-cats/blob/main/ab-test.ipynb)**
 
 ## 🧪 What is A/B Testing?
 A/B testing is a method for comparing two versions of a product or feature (A and B) to determine which one performs better. Users are randomly split into a **control group** (seeing the original version A) and a **treatment group** (seeing the new version B).
