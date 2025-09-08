@@ -11,7 +11,7 @@ The analysis follows a structured, end-to-end methodology, starting from a forma
 
 
 ## 🔗 Quick Links
-* 📓 **[Full Code in Jupyter Notebook](https://nbviewer.org/github/vytautas-fin/ab-testing-cookie-cats/blob/main/ab-test.ipynb)**
+* 📓 **[Full Code in Jupyter Notebook](ab-test.ipynb)**
 
 
 ## 🧪 What is A/B Testing?
